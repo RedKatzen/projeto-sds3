@@ -1,0 +1,113 @@
+[33mcommit 5fb7d4cd3f27ebb35b5bec58c7e505a401f9e2a7[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m, [m[1;31morigin/master[m[33m)[m
+Author: Gabriel Frohlich <gabrieldeavilaf@gmail.com>
+Date:   Sun May 9 10:55:07 2021 -0300
+
+    DataTable integration
+
+[33mcommit d3b58fc147dd11b162faab80906c6c14bf8855b0[m
+Author: Gabriel Frohlich <gabrieldeavilaf@gmail.com>
+Date:   Sat May 8 17:50:32 2021 -0300
+
+    BarChart Integration
+
+[33mcommit fd933da8280d6eb360c41f233c38db6114c4ccd6[m
+Author: Gabriel Frohlich <gabrieldeavilaf@gmail.com>
+Date:   Sat May 8 17:31:44 2021 -0300
+
+    DonutChart integration
+
+[33mcommit e303c40f7bec1f89f8d1636bf6a9c6bb984a3569[m
+Author: Gabriel Frohlich <gabrieldeavilaf@gmail.com>
+Date:   Sat May 8 17:14:40 2021 -0300
+
+    First request
+
+[33mcommit f935594f1f4910ee10e67c57e63a07f7c60618cd[m
+Author: Gabriel Frohlich <gabrieldeavilaf@gmail.com>
+Date:   Sat May 8 16:50:00 2021 -0300
+
+    Home, navigation
+
+[33mcommit e2992aa02d618a20927dbbd318be157352424c4b[m
+Author: Gabriel Frohlich <gabrieldeavilaf@gmail.com>
+Date:   Sat May 8 16:37:28 2021 -0300
+
+    Routes
+
+[33mcommit f7a0ca32e7a087faecca8456506506ec1551e146[m
+Author: Gabriel Frohlich <gabrieldeavilaf@gmail.com>
+Date:   Fri May 7 22:37:35 2021 -0300
+
+    First homolog
+
+[33mcommit d668c2e6b770b2f28756190817359ec1c1bebf7a[m
+Author: Gabriel Frohlich <gabrieldeavilaf@gmail.com>
+Date:   Fri May 7 22:22:11 2021 -0300
+
+    Group by search
+
+[33mcommit a681b64ca3eb2d0c47cba4189a02f285c6ebee71[m
+Author: Gabriel Frohlich <gabrieldeavilaf@gmail.com>
+Date:   Fri May 7 21:32:25 2021 -0300
+
+    Pagination
+
+[33mcommit 9ee7dbf48b69d9581eb579341ed201cf97ec0249[m
+Author: Gabriel Frohlich <gabrieldeavilaf@gmail.com>
+Date:   Wed May 5 22:13:45 2021 -0300
+
+    Layers
+
+[33mcommit 11d51cc0369c3acabf7014360c341321747c5e93[m
+Author: Gabriel Frohlich <gabrieldeavilaf@gmail.com>
+Date:   Wed May 5 21:45:16 2021 -0300
+
+    Domain model, database seed
+
+[33mcommit 1092059e91f83d963d329d5d5679e0e776d40e5d[m
+Author: Gabriel Frohlich <gabrieldeavilaf@gmail.com>
+Date:   Wed May 5 21:12:37 2021 -0300
+
+    Security config
+
+[33mcommit e8a65f68fdec7d7f8064bdfba0e3cda85554ad46[m
+Author: Gabriel Frohlich <gabrieldeavilaf@gmail.com>
+Date:   Tue May 4 21:50:35 2021 -0300
+
+    Name correction
+
+[33mcommit 0270af3b484f54d1a0e9b8c2e96050cc71e47e6e[m
+Author: Gabriel Frohlich <gabrieldeavilaf@gmail.com>
+Date:   Tue May 4 21:36:56 2021 -0300
+
+    Static charts
+
+[33mcommit 38f644ae7400a0a2e31a74878e252b972cbb89b2[m
+Author: Gabriel Frohlich <gabrieldeavilaf@gmail.com>
+Date:   Tue May 4 21:13:46 2021 -0300
+
+    Basic static components 2
+
+[33mcommit 044433d0152ad2d401449d6de3878a1e536f60d2[m
+Author: Gabriel Frohlich <gabrieldeavilaf@gmail.com>
+Date:   Tue May 4 21:12:12 2021 -0300
+
+    Basic static components
+
+[33mcommit 09c8fdf3a12bbeca72c89c898ae361983398e31b[m
+Author: Gabriel Frohlich <gabrieldeavilaf@gmail.com>
+Date:   Tue May 4 19:01:21 2021 -0300
+
+    Bootstrap
+
+[33mcommit 59d9d6039c1a38c95b415135d47eb5677fa7b346[m
+Author: Gabriel Frohlich <gabrieldeavilaf@gmail.com>
+Date:   Tue May 4 18:44:30 2021 -0300
+
+    Project clean
+
+[33mcommit 3c9a69147af681f8e79e36bf443fb3aeb361d9dc[m
+Author: Gabriel Frohlich <gabrieldeavilaf@gmail.com>
+Date:   Mon May 3 19:32:39 2021 -0300
+
+    Project created
